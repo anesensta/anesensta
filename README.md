@@ -22,6 +22,7 @@
 ![BLoC](https://img.shields.io/badge/BLoC-0052CC?style=for-the-badge) 
 ![Riverpod](https://img.shields.io/badge/Riverpod-4B34F4?style=for-the-badge) 
 ![Provider](https://img.shields.io/badge/Provider-FF6F00?style=for-the-badge)
+
 **Backend / API:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-9900FF?style=for-the-badge) 
