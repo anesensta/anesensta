@@ -19,7 +19,9 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 ![NiceGUI](https://img.shields.io/badge/NiceGUI-1.4.20-blue?style=for-the-badge)
-
+![BLoC](https://img.shields.io/badge/BLoC-0052CC?style=for-the-badge) 
+![Riverpod](https://img.shields.io/badge/Riverpod-4B34F4?style=for-the-badge) 
+![Provider](https://img.shields.io/badge/Provider-FF6F00?style=for-the-badge)
 **Backend / API:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-9900FF?style=for-the-badge) 
@@ -40,8 +42,8 @@
 
 ### 📌 Featured Projects
 - 📝 [Smart TaskMate](https://github.com/anesensta/smart-taskmate) — AI-powered task manager (NiceGui + FastAPI + PostgreSQL)  
-- 🏠 [Bayti](https://github.com/anesensta) — home made food  app with property listings and search features and ordring  
-- 💬 [Chat App](https://github.com/anesensta) — Real-time messaging app using Flutter &  
+- 🏠 [Bayti](https://github.com/anesensta) — home made food  app with property listings and search features and ordring using Flutter and supabase 
+- 💬 [Chat App](https://github.com/anesensta) — Real-time messaging app using Flutter &  Firebase
 - ☀️ [Weather App](https://github.com/anesensta) — Flutter app displaying live weather info from APIs  
 - 🛒 [Walmart Web Scraper](https://github.com/anesensta) — Python scraper for product data on Walmart  
 
